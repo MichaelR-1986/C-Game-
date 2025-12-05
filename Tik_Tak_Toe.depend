@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1764883959 source:c:\users\michael.romero005\downloads\tik_tak_toe\main.cpp
+	<vector>
+	<iomanip>
+	<iostream>
+	<vector>
+	<iomanip>
+
